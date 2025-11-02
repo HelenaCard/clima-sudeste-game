@@ -1,8 +1,29 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { BookOpen, Target, Sparkles, Globe } from "lucide-react";
+import { BookOpen, Target, Sparkles, Globe, Building2, Landmark, Heart } from "lucide-react";
 import sustainabilityIcon from "@/assets/sustainability-icon.png";
 
 export const About = () => {
+  const fundingTypes = [
+    {
+      icon: <Landmark className="h-10 w-10" />,
+      title: "Recursos Públicos",
+      description: "Financiamento proveniente de governos municipais, estaduais e federais. Incluem subsídios, créditos facilitados e programas de incentivo governamental para projetos sustentáveis.",
+      color: "text-blue-600 dark:text-blue-400"
+    },
+    {
+      icon: <Building2 className="h-10 w-10" />,
+      title: "Recursos Privados",
+      description: "Investimentos de empresas e instituições financeiras privadas. Podem incluir empréstimos bancários, investimentos de impacto e parcerias público-privadas voltadas para sustentabilidade.",
+      color: "text-green-600 dark:text-green-400"
+    },
+    {
+      icon: <Heart className="h-10 w-10" />,
+      title: "Recursos Filantrópicos",
+      description: "Doações e financiamentos de organizações sem fins lucrativos, fundações e ONGs internacionais. Focam em projetos de impacto social e ambiental para comunidades vulneráveis.",
+      color: "text-pink-600 dark:text-pink-400"
+    }
+  ];
+
   const features = [
     {
       icon: <Target className="h-8 w-8" />,
@@ -46,6 +67,37 @@ export const About = () => {
               Uma plataforma educativa que democratiza o conhecimento sobre financiamento 
               climático e capacita comunidades do Sudeste brasileiro a tomar decisões sustentáveis.
             </p>
+          </div>
+
+          {/* Tipos de Recursos */}
+          <div className="space-y-6">
+            <div className="text-center space-y-2">
+              <h3 className="text-2xl md:text-3xl font-bold">
+                Tipos de Financiamento Climático
+              </h3>
+              <p className="text-muted-foreground">
+                Entenda as diferentes fontes de recursos disponíveis para projetos sustentáveis
+              </p>
+            </div>
+            
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+              {fundingTypes.map((type, index) => (
+                <Card 
+                  key={index} 
+                  className="shadow-soft hover:shadow-glow transition-all duration-300 border-2"
+                >
+                  <CardHeader className="text-center">
+                    <div className={`p-4 rounded-full w-fit mx-auto mb-4 bg-gradient-to-br from-primary/10 to-primary/5 ${type.color}`}>
+                      {type.icon}
+                    </div>
+                    <CardTitle className="text-xl">{type.title}</CardTitle>
+                    <CardDescription className="text-base text-left pt-2">
+                      {type.description}
+                    </CardDescription>
+                  </CardHeader>
+                </Card>
+              ))}
+            </div>
           </div>
 
           {/* Features Grid */}
