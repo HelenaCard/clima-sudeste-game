@@ -1,13 +1,22 @@
-// Update this page (the content is just a fallback if you fail to update the page)
+import { useState } from "react";
+import { Hero } from "@/components/Hero";
+import { GameBoard } from "@/components/GameBoard";
+import { About } from "@/components/About";
 
 const Index = () => {
+  const [showGame, setShowGame] = useState(false);
+
   return (
-    <div className="flex min-h-screen items-center justify-center bg-background">
-      <div className="text-center">
-        <h1 className="mb-4 text-4xl font-bold">Welcome to Your Blank App</h1>
-        <p className="text-xl text-muted-foreground">Start building your amazing project here!</p>
-      </div>
-    </div>
+    <main className="min-h-screen">
+      {showGame ? (
+        <GameBoard onBack={() => setShowGame(false)} />
+      ) : (
+        <>
+          <Hero onStartGame={() => setShowGame(true)} />
+          <About />
+        </>
+      )}
+    </main>
   );
 };
 
