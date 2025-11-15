@@ -31,12 +31,14 @@ Brasil.
 
 ## 🧩 **Descrição**
 
-O game foi criado com base nos materiais do **DesAFIO RPNSAR**, trazendo
+O game foi criado com base nos materiais do **DESAFIO RPNSAR**, trazendo
 para o formato interativo os principais conceitos do **Ebook, Cartilha e
 Estudo detalhado** produzidos no desafio.
 
 Ele traduz temas técnicos em uma experiência leve e acessível, para
 ampliar o **protagonismo das comunidades**.
+
+📚 Materiais Disponíveis aqui 👉 https://drive.google.com/drive/u/2/folders/1w1idanY2uZh9R1gDyO6lYk7JxxPYYoOJ
 
 ------------------------------------------------------------------------
 
