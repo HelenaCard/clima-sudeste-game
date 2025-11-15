@@ -64,25 +64,25 @@ sustentabilidade.
 
 ## ▶️ **Vídeo Mostrando a Interface**
 
-📽️ https://www.canva.com/design/DAG4yJacob8/qZso7QO-5GMRKhQNSTI1MQ/watch
+📽️ Assista aqui 👉 https://www.canva.com/design/DAG4yJacob8/qZso7QO-5GMRKhQNSTI1MQ/watch
 
 ------------------------------------------------------------------------
 
 ## 🎮 **Jogue Agora**
 
-🌐 https://clima-sudeste-game.lovable.app/
+🌐 Assista aqui 👉 https://clima-sudeste-game.lovable.app/
 
 ------------------------------------------------------------------------
 
 # 🧠 Como o Game Funciona
 
--   Avalie cenários reais da Região Sudeste\
--   Tome decisões de financiamento (público, privado, comunitário)\
+-   Avalie cenários reais da Região Sudeste
+-   Tome decisões de financiamento (público, privado, comunitário)
 -   Observe impactos em:
-    -   Justiça social\
-    -   Redução de emissões\
-    -   Inclusão energética\
-    -   Desenvolvimento regional\
+    -   Justiça social
+    -   Redução de emissões
+    -   Inclusão energética
+    -   Desenvolvimento regional
 -   Teste estratégias e compare resultados
 
 ------------------------------------------------------------------------
@@ -133,28 +133,26 @@ Contribuições são muito bem-vindas!
 
 # 📌 Roadmap
 
--   Novos cenários regionais\
--   Modo educador\
--   Localização PT/EN\
--   Modo offline\
--   Sistema de ranking\
+-   Novos cenários regionais
+-   Modo educador
+-   Localização PT/EN
+-   Modo offline
+-   Sistema de ranking
 -   Expansão para outras regiões
 
 ------------------------------------------------------------------------
 
 # 🖼️ Estilo Visual (Tema do Game)
 
-**Paleta sugerida**\
-🟩 Verde: sustentabilidade\
-🟦 Azul: tecnologia e confiança\
-🟧 Laranja: energia e ação\
+**Paleta sugerida**
+🟩 Verde: sustentabilidade
+🟦 Azul: tecnologia e confiança
+🟧 Laranja: energia e ação
 ⬛ Preto: contraste moderno
 
-**Tipografia sugerida**\
-- Títulos: *Orbitron* (estética de game/tech)\
+**Tipografia sugerida**
+- Títulos: *Orbitron* (estética de game/tech)
 - Textos: *Inter* ou *Nunito*
-
-Se quiser, posso gerar **arquivos de identidade visual** também.
 
 ------------------------------------------------------------------------
 
@@ -165,5 +163,5 @@ Se quiser, posso gerar **arquivos de identidade visual** também.
 ------------------------------------------------------------------------
 
 # 💬 Contato
-Para dúvidas, sugestões ou melhorias:\
-👉 [LinkedIN](www.linkedin.com/in/helena-cardoso-9b2b9b200)
+Para dúvidas, sugestões ou melhorias:
+👉 Entre em Contato [LinkedIN](www.linkedin.com/in/helena-cardoso-9b2b9b200)
