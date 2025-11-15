@@ -82,6 +82,19 @@ sustentabilidade.
 
 ------------------------------------------------------------------------
 
+# Como foi realizado?
+Para o desenvolvimento deste projeto, foi utilizada a ferramenta [LOVABLE](https://lovable.dev/), responsável pela criação e organização do site. Os dados apresentados foram selecionados de acordo com as especificidades da região Sudeste e possuem origem pública, garantindo transparência e confiabilidade. A construção da plataforma foi alinhada às atividades e aos produtos finais das pesquisas do DESAFIO RPNSAR, permitindo que a simulação apresentada seja mais próxima da realidade, didática e conectada às necessidades das comunidades envolvidas.
+
+É importante destacar que, para compreender plenamente o funcionamento da plataforma e ampliar o aproveitamento do conteúdo, é fundamental ter conhecimentos básicos de:
+
+- Lógica de programação e linguagem de programação utilizada, para entender e modificar a estrutura de funcionamento do jogo e das interações;
+
+- Engenharia de Prompt, essencial para explorar e otimizar o uso de ferramentas baseadas em IA, como a LOVABLE;
+
+- Conceitos de Financiamento Sustentável e Climático, que embasam as decisões, cenários e recursos simulados no projeto.
+
+Esses conhecimentos tornam a experiência mais rica, facilitam a interpretação dos dados e ampliam a capacidade de aplicar os aprendizados em contextos reais de planejamento, participação social e tomada de decisão.
+
 # 🛠️ Tecnologias Utilizadas
 
 -   **TypeScript**
