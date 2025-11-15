@@ -15,7 +15,6 @@
 ------------------------------------------------------------------------
 
 ## 🎥 Prévia do Game
-
 ![Gameplay
 GIF](https://github.com/user-attachments/assets/09e7163b-ab52-48f9-8e23-204ec9bcb26d)
 
@@ -53,12 +52,6 @@ Entre na experiência jogável e tome decisões reais de financiamento.
 
 Explore conteúdos explicativos sobre acesso a recursos e
 sustentabilidade.
-
-------------------------------------------------------------------------
-
-## 🖼️ Tela Inicial
-
-`<img width="1854" height="848" alt="Tela inicial do Clima Sudeste Game" src="https://github.com/user-attachments/assets/09e7163b-ab52-48f9-8e23-204ec9bcb26d" />`{=html}
 
 ------------------------------------------------------------------------
 
