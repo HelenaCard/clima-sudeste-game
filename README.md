@@ -95,6 +95,8 @@ Para o desenvolvimento deste projeto, foi utilizada a ferramenta [LOVABLE](https
 
 Esses conhecimentos tornam a experiência mais rica, facilitam a interpretação dos dados e ampliam a capacidade de aplicar os aprendizados em contextos reais de planejamento, participação social e tomada de decisão.
 
+------------------------------------------------------------------------
+
 # 🛠️ Tecnologias Utilizadas
 
 -   **TypeScript**
